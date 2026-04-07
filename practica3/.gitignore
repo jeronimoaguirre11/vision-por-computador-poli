@@ -1,0 +1,17 @@
+# Archivos pesados
+*.tiff
+*.tif
+
+# Imágenes generadas
+*.png
+
+# Carpetas del dataset
+Imagen-Ruido/
+Imagen-Limpio/
+
+# Cache de Python
+__pycache__/
+*.pyc
+
+# Entornos
+.env
