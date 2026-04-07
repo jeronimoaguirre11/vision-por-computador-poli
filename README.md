@@ -8,6 +8,7 @@ hasta el momento contamos con diversas practicas, cada una con su README.md para
 
 - practica 1
 - practica 2
+- practica 3
 
 ## tecnologias
 
