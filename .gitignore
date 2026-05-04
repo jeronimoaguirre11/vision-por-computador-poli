@@ -1,0 +1,34 @@
+# Ignorar datasets e imágenes
+*.jpg
+*.jpeg
+*.png
+*.tif
+*.tiff
+
+# Carpetas específicas
+imagenes parcial 1/
+Dataset-SAR/
+Dataset-SwinIR/
+DataEscenas/
+Landuse/
+Imagen-Ruido/
+Imagen-Limpia/
+GROUND-TRUTH/
+SAR-RUIDO/
+Ground-Truth/
+Noisy/
+SwinIR-Results/
+SwinIR/
+
+# Resultados generados
+results/
+outputs/
+logs/
+
+# Python
+__pycache__/
+*.pyc
+
+# Entornos
+venv/
+env/
